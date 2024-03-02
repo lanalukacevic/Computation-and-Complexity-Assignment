@@ -1,0 +1,7 @@
+John | Doe | 9876543210 | true
+Alice | Johnson | 5555555555 | false
+Bob | Brown | 1111111111 | true
+Emily | White | 2222222222 | false
+Michael | Davis | 3333333333 | true
+Sarah | Taylor | 4444444444 | true
+Steve | Smith | 1234567890 |false
